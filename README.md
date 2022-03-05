@@ -1,39 +1,39 @@
 # Hola 👋 soy desarrolladora de Backend principalmente con Java y vivo en Barcelona 
 
-😄 Ahora estoy en el último paso de  un boot Camp de java con Spring de la IT Academy de Barcelona activa en el que trabajo en un proyecto open source . Este es el ultimo paso
-de un camino que empezo hace dos años y medio cuando di un giro a mi carrera profesional, que me llevo a descubrir que me encanta la programación ya que estimula mi mente y 
-satisface el deseo de retos nuevos cada dia.
+😄 Ahora estoy en el último paso de un boot Camp de java con Spring de la IT Academy de Barcelona activa en el que trabajo en un proyecto open source . Este es el último paso
+de un camino que empezó hace dos años y medio cuando di un giro a mi carrera profesional, que me llevo a descubrir que me encanta la programación ya que estimula mi mente y 
+satisface el deseo de retos nuevos cada día.
 
-Durante este tiempo estudie algo de Python, luego hice el boot Camp de Samsung desarolladoras en el que aprendi Angular y Node.js. Donde me di cuenta que lo que
-realmente me encanta es el Backend. Asi decidi especializarme en java haciendo un Boot Camp en Barcelona Activa. Actualmente es lo que más domino y con lo que más disfruto.
+Durante este tiempo estudié algo de Python, luego hice el boot Camp de Samsung desarrolladoras en el que aprendí Angular y Node.js. Donde me di cuenta que lo que
+realmente me encanta es el Backend. Así decidí especializarme en java haciendo un Boot Camp en Barcelona Activa. Actualmente es lo que más domino y con lo que más disfruto.
 
 ¿Qué hay de nuevo? 🔥
 
 ¡En los últimos días participé en un hackathon y mi proyecto en solitario fue seleccionado para el desafío grupal final! ¡Mira el repositorio:
 https://github.com/Isabel160609/MWC22#readme. En el que finalmente mi grupo quedo en segunda posición fue muy divertido y enriquecedor.
 
-🔭 Actualmente estoy trabajando en un proyecto open source https://github.com/IT-Academy-BCN/BusinessAssistantBCN-backend de Barcelona activa
+🧐 Actualmente estoy trabajando en un proyecto open source https://github.com/IT-Academy-BCN/BusinessAssistantBCN-backend de Barcelona activa
 
 🌱 La belleza del desarrollo web y la programación en general es que son un reto constante y un camino de aprendizaje sin fin. Siempre hay proyectos nuevos que deseas empezar
 y cosas que quieres aprender. Algunos temas en los que me estoy enfocando en este momento:
 
 Docker: que he empezado a necesitar en el proyecto.
 
-Test: estoy profundizando mucho más para hacer apis más solidas.
+Test: estoy profundizando mucho más para hacer apis más sólidas.
 
 Algoritmia: me encantan los pequeños retos que suponen.
 
-💬 Puedes preguntarme sobre Java , Spring Boot , Angular y Node.js. Aunque todavia estoy aprendiendo  😉.
+💬 Puedes preguntarme sobre Java , Spring Boot , Angular y Node.js. Aunque todavía estoy aprendiendo  😉.
 
 📫 ¿Quieres contactarme? Envíame un correo electrónico a isabel.1606069@hotmail.com
 
 📄 ¿Quieres saber sobre mi? Visita mi [LinkedIn](www.linkedin.com/in/isabelDomenech)
 
-⚡ Algunos datos curiosos sobre mí:
+⚡ Algunos datos curiosos sobre mi:
 
-Pertenezco a la colla de gegants del poblenou.😁
+Pertenezco a la Colla de Gegants del Poblenou.😁
 
-Vivi una temporada en Jaen mientras estudiaba en la universidad.👩‍🎓
+Viví una temporada en Jaén mientras estudiaba en la universidad.👩‍🎓
 
 Me encanta el sushi🍣
 
