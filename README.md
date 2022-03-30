@@ -1,6 +1,6 @@
 # Hola 👋 soy desarrolladora de Backend principalmente con Java y vivo en Barcelona 
 
-😄 Ahora estoy en el último paso de un boot Camp de java con Spring de la IT Academy de Barcelona activa en el que trabajo en un proyecto open source . Este es el último paso
+😄 Ahora estoy en el última etapa de un boot Camp de java con Spring de la IT Academy de Barcelona activa en el que trabajo en un proyecto open source . Este es el último paso
 de un camino que empezó hace dos años y medio cuando di un giro a mi carrera profesional, que me llevo a descubrir que me encanta la programación ya que estimula mi mente y 
 satisface el deseo de retos nuevos cada día.
 
